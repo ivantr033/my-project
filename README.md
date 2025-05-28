@@ -1,3 +1,5 @@
+![](/img/pict-ivan.jpg)
+
 ### Name and Lastname(s):
 Ivannoe Tellez Rodriguez
 
@@ -7,4 +9,5 @@ Ivannoe Tellez Rodriguez
 ### Birth date:
 03.03.1977
 
-![](/img/pict-ivan.jpg)
+### Nationality:
+Cuban
